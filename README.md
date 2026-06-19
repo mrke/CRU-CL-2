@@ -59,7 +59,7 @@ source("make_cru_cl2_nc.R")
 
 The pre-built `cru_cl2.nc` (~55 MB, NetCDF4 deflate-compressed) is archived on Zenodo:
 
-> DOI: *(to be added after upload)*
+> DOI: 10.5281/zenodo.20754689
 
 Download it from Zenodo and place it in the same directory as the R scripts
 before running the examples.
